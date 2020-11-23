@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020年11月19日, 下午8:36:44
+    Author     : yaosiyu
+*/
+
+body .ui-panel .ui-panel-titlebar{
+    background-color: #3792a9;
+    border: #3792a9;
+}
+
+body .ui-button.ui-state-hover{
+    background-color: #3792a9;
+    border-color: #3792a9;
+}
+
+body .ui-button{
+    background-color: #3792a9;
+    border: #3792a9;
+}
+
+body .ui-dialog .ui-dialog-titlebar{
+    background-color: #3792a9;
+    border: #3792a9;
+}
+
+body .ui-button{
+    background-color: #3792a9;
+    border-color: #3792a9;
+}
+
+
+
+.btn-primary{
+    background-color: #3792a9;
+    border-color: #3792a9;
+}
+
+:root{
+    --primary:#3792a9;
+    --input-focus-border-color:#3792a9;
+}
+
+.btn-outline-primary:hover{
+    background-color: #3792a9;
+}

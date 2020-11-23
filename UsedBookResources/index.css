@@ -48,3 +48,8 @@ body .ui-button{
 .btn-outline-primary:hover{
     background-color: #3792a9;
 }
+
+.btn-primary:hover{
+    background-color: #3792a9;
+    border-color: #3792a9;
+}
